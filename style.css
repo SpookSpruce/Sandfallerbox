@@ -1,4 +1,14 @@
+body {
+    background-color: rgb(100, 100, 100);
+}
 .gamecanvas {
     border: 5px solid;
-    border-color: black;
+    border-color: white;
+    margin-top: 25px;
+    margin-left: 375px;
+}
+
+.title {
+    margin-left: 725px;
+    color: white;
 }
