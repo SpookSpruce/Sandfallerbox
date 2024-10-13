@@ -3,6 +3,7 @@ body {
 }
 .gamecanvas {
     border: 5px solid;
+<<<<<<< HEAD
     border-color: white;
     margin-top: 25px;
     margin-left: 375px;
@@ -12,3 +13,20 @@ body {
     margin-left: 725px;
     color: white;
 }
+=======
+    border-color: black;
+}
+
+body {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.version {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+}
+>>>>>>> refs/remotes/origin/main
