@@ -19,6 +19,7 @@ body {
 
 .version {
     position: fixed;
-    bottom: 10px;
+    bottom: -7.5px;
     left: 10px;
+    color: white;
 }
