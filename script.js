@@ -2,8 +2,9 @@
 
 // --- VARIABLES ---
 
-var elements = []
+var elements = {}
 var states = {}
+const canvas = document.getElementById("gamecanvas")
 
 // --- CODE ---
 
