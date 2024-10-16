@@ -1,13 +1,10 @@
-states = {
-SOLIDWALL: [
-    "XX|XX|XX",
-    "XX|XX|XX",
-    "XX|XX|XX",
-],
-}
+// i am going to struggle while making this - 3pm
 
-"sand": {
-    color: "#e6d577",
-    state: states.SOLIDWALL,
-    category: "Solids",
-},
+// --- VARIABLES ---
+
+var elements = []
+var states = {}
+
+// --- CODE ---
+
+// hey now that i think about it its actually super difficult-
