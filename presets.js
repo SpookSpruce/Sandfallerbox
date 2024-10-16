@@ -1,12 +1,11 @@
-// FIXME: remove these errors its burning my eyes
-
-states.SOLIDWALL: [
+states.SOLIDWALL = [
     "XX|XX|XX",
     "XX|XX|XX",
     "XX|XX|XX",
 ]
-elements.sand: {
-    color: "#e6d577",
-    state: states.SOLIDWALL,
-    category: "Solids",
+
+elements.sand = {
+    "color": "#e6d577",
+    "state": states.SOLIDWALL,
+    "category": "Solids",
 }
